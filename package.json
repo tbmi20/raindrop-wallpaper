@@ -1,0 +1,23 @@
+{
+  "name": "raindrop-wallpaper",
+  "version": "1.0.0",
+  "description": "A three.js wallpaper using the marching cubes algorithm for combinations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbmi20/raindrop-wallpaper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbmi20/raindrop-wallpaper/issues"
+  },
+  "homepage": "https://github.com/tbmi20/raindrop-wallpaper#readme",
+  "dependencies": {
+    "three": "^0.174.0"
+  }
+}
