@@ -40,6 +40,7 @@ for (let i = 0; i < 50; i++) {
   createRaindrop();
 }
 
+
 // Function to merge raindrops
 function mergeRaindrops() {
   for (let i = 0; i < raindrops.length; i++) {
